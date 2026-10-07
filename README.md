@@ -1,5 +1,5 @@
 # Scientific workflow GitHub workshop
-
+MA: 10072026: I added this comment as part DSS Workshop!!!
 This synthetic repository supports two workshops:
 
 1. **GitHub Foundations for Scientific Work**
